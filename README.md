@@ -16,3 +16,5 @@ ShadowSocksR Plus+中的强制走代理域名（黑名单）功能来维护自�
 
 文件下载地址：
 https://cdn.jsdelivr.net/gh/poctopus/gfwlist-plus@master/gfwlist-plus.txt
+
+https://raw.githubusercontent.com/poctopus/gfwlist-plus/master/gfwlist-plus.txt
