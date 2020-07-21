@@ -17,7 +17,8 @@ ShadowSocksR Plus+中的强制走代理域名（黑名单）功能来维护自�
 很多地区访问GITHUB已经有问题，网上有一个免费的CDN服务，可以从GITHUB自动镜像，大家可以用这个
 地址。
 
-文件下载地址：
-https://cdn.jsdelivr.net/gh/poctopus/gfwlist-plus@master/gfwlist-plus.txt
+CDN文件下载地址：https://cdn.jsdelivr.net/gh/poctopus/gfwlist-plus@master/gfwlist-plus.txt
 
-https://raw.githubusercontent.com/poctopus/gfwlist-plus/master/gfwlist-plus.txt
+GITHUB文件下载地址：https://raw.githubusercontent.com/poctopus/gfwlist-plus/master/gfwlist-plus.txt
+
+BTW：GFWLIST的管理员最近已经开始更新了，我这个项目将在GFWLIST更新稳定后，停止更新，只做自己私人用途了。
