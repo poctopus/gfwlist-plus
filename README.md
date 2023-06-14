@@ -2,6 +2,10 @@
 
 <a href="https://info.flagcounter.com/a90Q"><img src="https://s05.flagcounter.com/countxl/a90Q/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_24/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
+
+20200721：GFWLIST的管理员最近已经开始更新了，我这个项目将在GFWLIST更新稳定后，停止更新，只做自己私人用途了。
+
+
 GFWLIST从2019年11月4日之后再也没有更新过了，作者也说了已经不太方便来维护，之前一直靠自己在
 ShadowSocksR Plus+中的强制走代理域名（黑名单）功能来维护自己的GFWLIST。
 
@@ -17,8 +21,9 @@ ShadowSocksR Plus+中的强制走代理域名（黑名单）功能来维护自�
 很多地区访问GITHUB已经有问题，网上有一个免费的CDN服务，可以从GITHUB自动镜像，大家可以用这个
 地址。
 
-CDN文件下载地址：https://cdn.jsdelivr.net/gh/poctopus/gfwlist-plus@master/gfwlist-plus.txt
+JSD CDN下载地址：https://cdn.jsdelivr.net/gh/poctopus/gfwlist-plus@master/gfwlist-plus.txt
 
-GITHUB文件下载地址：https://raw.githubusercontent.com/poctopus/gfwlist-plus/master/gfwlist-plus.txt
+GITHUB下载地址：https://raw.githubusercontent.com/poctopus/gfwlist-plus/master/gfwlist-plus.txt
 
-BTW：GFWLIST的管理员最近已经开始更新了，我这个项目将在GFWLIST更新稳定后，停止更新，只做自己私人用途了。
+GHProxy下载：https://ghproxy.com/https://raw.githubusercontent.com/poctopus/gfwlist-plus/master/gfwlist-plus.txt
+
